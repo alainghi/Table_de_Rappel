@@ -1,6 +1,10 @@
 # Table de Rappel
 
-Application Android d'entraînement à la mémorisation : chercher un **mot** ou un **nombre**, vérifier la réponse, et visualiser l'image associée.
+Application Android **permanente** pour s'exercer à la mémorisation d'une suite de chiffres.
+
+## Objectif
+
+S'entraîner régulièrement et de façon permanente à mémoriser une suite de chiffres : retrouver le nombre associé à un mot (et inversement), vérifier sa réponse, et s'appuyer sur l'image associée pour consolider la mémorisation.
 
 ## Fonctionnalités
 
