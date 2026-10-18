@@ -1,6 +1,6 @@
 # Table de Rappel
 
-Application Android **permanente** pour s'exercer à la mémorisation d'une suite de chiffres.
+Application Android pour s'exercer à la mémorisation d'une suite de chiffres.
 
 ## Objectif
 
