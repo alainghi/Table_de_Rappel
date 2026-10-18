@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Table de Rappel</string>
+    <string name="Chercher_mots">Chercher un mot</string>
+    <string name="Chercher_numero">Chercher un nombre</string>
+    <string name="Voir_images">Voir les images</string>
+    <string name="Verifier">Vérifier</string>
+    <string name="Entrer_numero">Nombre</string>
+    <string name="Entrer_mot">Mot</string>
+    <string name="image_description">Image associée au mot et au numéro</string>
+    <string name="title_home">Accueil</string>
+    <string name="title_dashboard">Tableau de bord</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="Solution">Solution</string>
+</resources>
+

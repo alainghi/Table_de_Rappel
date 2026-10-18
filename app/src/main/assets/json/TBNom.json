@@ -1,0 +1,404 @@
+[
+  {
+    "SEAU": {
+      "mot": "SEAU",
+      "numero": "0"
+    },
+    "TOIT": {
+      "mot": "TOIT",
+      "numero": "1"
+    },
+    "NID": {
+      "mot": "NID",
+      "numero": "2"
+    },
+    "MAT": {
+      "mot": "MAT",
+      "numero": "3"
+    },
+    "RAT": {
+      "mot": "RAT",
+      "numero": "4"
+    },
+    "LAIT": {
+      "mot": "LAIT",
+      "numero": "5"
+    },
+    "CHAT": {
+      "mot": "CHAT",
+      "numero": "6"
+    },
+    "COIN": {
+      "mot": "COIN",
+      "numero": "7"
+    },
+    "FEU": {
+      "mot": "FEU",
+      "numero": "8"
+    },
+    "POT": {
+      "mot": "POT",
+      "numero": "9"
+    },
+    "TASSE": {
+      "mot": "TASSE",
+      "numero": "10"
+    },
+    "TETE": {
+      "mot": "TETE",
+      "numero": "11"
+    },
+    "TONNEAU": {
+      "mot": "TONNEAU",
+      "numero": "12"
+    },
+    "TOMME": {
+      "mot": "TOMME",
+      "numero": "13"
+    },
+    "TAUREAU": {
+      "mot": "TAUREAU",
+      "numero": "14"
+    },
+    "TAULE": {
+      "mot": "TAULE",
+      "numero": "15"
+    },
+    "TACHE": {
+      "mot": "TACHE",
+      "numero": "16"
+    },
+    "TICKET": {
+      "mot": "TICKET",
+      "numero": "17"
+    },
+    "TOUFFE": {
+      "mot": "TOUFFE",
+      "numero": "18"
+    },
+    "TAUPE": {
+      "mot": "TAUPE",
+      "numero": "19"
+    },
+    "NOCE": {
+      "mot": "NOCE",
+      "numero": "20"
+    },
+    "NATTE": {
+      "mot": "NATTE",
+      "numero": "21"
+    },
+    "NONNE": {
+      "mot": "NONNE",
+      "numero": "22"
+    },
+    "NEM": {
+      "mot": "NEM",
+      "numero": "23"
+    },
+    "NOIR": {
+      "mot": "NOIR",
+      "numero": "24"
+    },
+    "NYLON": {
+      "mot": "NYLON",
+      "numero": "25"
+    },
+    "NICHE": {
+      "mot": "NICHE",
+      "numero": "26"
+    },
+    "NIKE": {
+      "mot": "NIKE",
+      "numero": "27"
+    },
+    "NAVET": {
+      "mot": "NAVET",
+      "numero": "28"
+    },
+    "NAPPE": {
+      "mot": "NAPPE",
+      "numero": "29"
+    },
+    "MASSE": {
+      "mot": "MASSE",
+      "numero": "30"
+    },
+    "MOUTON": {
+      "mot": "MOUTON",
+      "numero": "31"
+    },
+    "MENU": {
+      "mot": "MENU",
+      "numero": "32"
+    },
+    "MOMIE": {
+      "mot": "MOMIE",
+      "numero": "33"
+    },
+    "MARRON": {
+      "mot": "MARRON",
+      "numero": "34"
+    },
+    "MOULIN": {
+      "mot": "MOULIN",
+      "numero": "35"
+    },
+    "MOUCHE": {
+      "mot": "MOUCHE",
+      "numero": "36"
+    },
+    "MAKI": {
+      "mot": "MAKI",
+      "numero": "37"
+    },
+    "MAFIA": {
+      "mot": "MAFIA",
+      "numero": "38"
+    },
+    "MAP": {
+      "mot": "MAP",
+      "numero": "39"
+    },
+    "RUSSE": {
+      "mot": "RUSSE",
+      "numero": "40"
+    },
+    "RATON": {
+      "mot": "RATON",
+      "numero": "41"
+    },
+    "RENNE": {
+      "mot": "RENNE",
+      "numero": "42"
+    },
+    "RHUM": {
+      "mot": "RHUM",
+      "numero": "43"
+    },
+    "RIRE": {
+      "mot": "RIRE",
+      "numero": "44"
+    },
+    "ROULEAU": {
+      "mot": "ROULEAU",
+      "numero": "45"
+    },
+    "RUCHE": {
+      "mot": "RUCHE",
+      "numero": "46"
+    },
+    "REQUIN": {
+      "mot": "REQUIN",
+      "numero": "47"
+    },
+    "*RAFIOT": {
+      "mot": "*RAFIOT",
+      "numero": "48"
+    },
+    "RAPE": {
+      "mot": "RAPE",
+      "numero": "49"
+    },
+    "LASSO": {
+      "mot": "LASSO",
+      "numero": "50"
+    },
+    "LATTE": {
+      "mot": "LATTE",
+      "numero": "51"
+    },
+    "LUNE": {
+      "mot": "LUNE",
+      "numero": "52"
+    },
+    "LAMA": {
+      "mot": "LAMA",
+      "numero": "53"
+    },
+    "LARD": {
+      "mot": "LARD",
+      "numero": "54"
+    },
+    "LILAS": {
+      "mot": "LILAS",
+      "numero": "55"
+    },
+    "LOUCHE": {
+      "mot": "LOUCHE",
+      "numero": "56"
+    },
+    "LAC": {
+      "mot": "LAC",
+      "numero": "57"
+    },
+    "LAVE": {
+      "mot": "LAVE",
+      "numero": "58"
+    },
+    "LOUPE": {
+      "mot": "LOUPE",
+      "numero": "59"
+    },
+    "CHASSE": {
+      "mot": "CHASSE",
+      "numero": "60"
+    },
+    "CHATEAU": {
+      "mot": "CHATEAU",
+      "numero": "61"
+    },
+    "CHENE": {
+      "mot": "CHENE",
+      "numero": "62"
+    },
+    "CHAMEAU": {
+      "mot": "CHAMEAU",
+      "numero": "63"
+    },
+    "CHAR": {
+      "mot": "CHAR",
+      "numero": "64"
+    },
+    "CHILI": {
+      "mot": "CHILI",
+      "numero": "65"
+    },
+    "CHOUCHOU": {
+      "mot": "CHOUCHOU",
+      "numero": "66"
+    },
+    "CHEQUE": {
+      "mot": "CHEQUE",
+      "numero": "67"
+    },
+    "CHEF": {
+      "mot": "CHEF",
+      "numero": "68"
+    },
+    "CHAPEAU": {
+      "mot": "CHAPEAU",
+      "numero": "69"
+    },
+    "CAISSE": {
+      "mot": "CAISSE",
+      "numero": "70"
+    },
+    "COUTEAU": {
+      "mot": "COUTEAU",
+      "numero": "71"
+    },
+    "CANNE": {
+      "mot": "CANNE",
+      "numero": "72"
+    },
+    "CAMION": {
+      "mot": "CAMION",
+      "numero": "73"
+    },
+    "CARRE": {
+      "mot": "CARRE",
+      "numero": "74"
+    },
+    "COLLE": {
+      "mot": "COLLE",
+      "numero": "75"
+    },
+    "COUCHE": {
+      "mot": "COUCHE",
+      "numero": "76"
+    },
+    "COQ": {
+      "mot": "COQ",
+      "numero": "77"
+    },
+    "CAFE": {
+      "mot": "CAFE",
+      "numero": "78"
+    },
+    "CAPE": {
+      "mot": "CAPE",
+      "numero": "79"
+    },
+    "FACE": {
+      "mot": "FACE",
+      "numero": "80"
+    },
+    "FOOT": {
+      "mot": "FOOT",
+      "numero": "81"
+    },
+    "FANION": {
+      "mot": "FANION",
+      "numero": "82"
+    },
+    "FEMME": {
+      "mot": "FEMME",
+      "numero": "83"
+    },
+    "FER": {
+      "mot": "FER",
+      "numero": "84"
+    },
+    "FIL": {
+      "mot": "FIL",
+      "numero": "85"
+    },
+    "FICHIER": {
+      "mot": "FICHIER",
+      "numero": "86"
+    },
+    "PHOQUE": {
+      "mot": "PHOQUE",
+      "numero": "87"
+    },
+    "FIFA": {
+      "mot": "FIFA",
+      "numero": "88"
+    },
+    "FIP": {
+      "mot": "FIP",
+      "numero": "89"
+    },
+    "PASSION": {
+      "mot": "PASSION",
+      "numero": "90"
+    },
+    "PATE": {
+      "mot": "PATE",
+      "numero": "91"
+    },
+    "PANIER": {
+      "mot": "PANIER",
+      "numero": "92"
+    },
+    "POMME": {
+      "mot": "POMME",
+      "numero": "93"
+    },
+    "POIRE": {
+      "mot": "POIRE",
+      "numero": "94"
+    },
+    "PILE": {
+      "mot": "PILE",
+      "numero": "95"
+    },
+    "POCHE": {
+      "mot": "POCHE",
+      "numero": "96"
+    },
+    "PAQUET": {
+      "mot": "PAQUET",
+      "numero": "97"
+    },
+    "PAVE": {
+      "mot": "PAVE",
+      "numero": "98"
+    },
+    "POUPEE": {
+      "mot": "POUPEE",
+      "numero": "99"
+    }
+  }
+]

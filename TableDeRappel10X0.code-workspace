@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../TableDeRappel10X0"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}

@@ -1,0 +1,10 @@
+{
+    "java.jdt.ls.java.home": "C:\\Program Files\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot",
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.compile.nullAnalysis.mode": "automatic",
+    "android.sdk.path": "C:\\Users\\%USERNAME%\\AppData\\Local\\Android\\Sdk",
+    "gradle.javaHome": "C:\\Program Files\\Eclipse Adoptium\\jdk-21.0.5.11-hotspot",
+    "java.import.gradle.enabled": true,
+    "java.import.gradle.version": "8.2",
+    "java.import.gradle.wrapper.enabled": true
+} 
